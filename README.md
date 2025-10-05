@@ -1,5 +1,7 @@
 # linkedin_job_scraping
 
+A web scraping program written in Python. It is used to scrap the information of jobs in LinkedIn.
+
 ## Setup
 
 Create virtual environment
