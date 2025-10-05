@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+nav {
+  background-color: black;
+  /* top, bottom and right, left padding */
+  padding: 25px 2%;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+main {
+  /* top, bottom and right, left padding */
+  padding: 0px 50px;
+  margin-top: 90px;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
